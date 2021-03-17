@@ -1,5 +1,4 @@
 // Function  for 3-way merge sort process 
-// https://www.quora.com/Suppose-we-do-merge-sort-with-a-three-way-split-divide-the-array-into-3-equal-parts-sort-each-part-and-do-a-3-way-merge-What-would-the-worst-case-complexity-of-this-version-be
 
 public static void mergeSort3Way(Integer[] gArray) 
 
